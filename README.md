@@ -23,7 +23,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's mine [Tyler Nguyen](https://isthatthinh.github.io)
+Here's mine [Tyler Nguyen](https://isthattyler.github.io)
 
 ## License
 

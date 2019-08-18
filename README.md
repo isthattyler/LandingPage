@@ -8,7 +8,9 @@ Developers don't talk much. Their code does all the talking. So here's a minimal
 
 ## Fork
 
-This site is forked from [Dinesh Pandiyan](https://flexdinesh.github.io)
+This site is forked from [Dinesh Pandiyan](https://flexdinesh.github.io).
+
+This version changes color every time the site is refreshed.
 
 ## GitHub Pages
 

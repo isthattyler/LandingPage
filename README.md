@@ -1,3 +1,5 @@
+[![](https://img.shields.io/github/languages/count/isthattyler/LandingPage)](https://img.shields.io/github/languages/count/isthattyler/LandingPage)
+[![](https://img.shields.io/github/languages/top/isthattyler/LandingPage)](https://img.shields.io/github/languages/top/isthattyler/LandingPage)
 # Dev Landing Page
 
 Minimal landing page for developers.
